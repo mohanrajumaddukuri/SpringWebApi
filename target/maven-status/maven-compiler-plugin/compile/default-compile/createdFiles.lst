@@ -1,0 +1,4 @@
+com\myprojects\configuration\MyConfiguration.class
+com\myprojects\main\RestMain.class
+com\myprojects\model\Customer.class
+com\myprojects\controller\MyController.class

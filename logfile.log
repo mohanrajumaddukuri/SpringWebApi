@@ -1,0 +1,57 @@
+2024-02-26T13:50:09.352+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : Starting RestMain using Java 21.0.1 with PID 35380 (C:\Users\maddu\eclipse-workspace\SimpleRestApi\target\classes started by maddu in C:\Users\maddu\eclipse-workspace\SimpleRestApi)
+2024-02-26T13:50:09.367+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T13:50:09.453+05:30  INFO 35380 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-26T13:50:09.453+05:30  INFO 35380 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-26T13:50:11.094+05:30  INFO 35380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-02-26T13:50:11.109+05:30  INFO 35380 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-26T13:50:11.110+05:30  INFO 35380 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-02-26T13:50:11.414+05:30  INFO 35380 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-02-26T13:50:11.428+05:30  INFO 35380 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-26T13:50:11.428+05:30  INFO 35380 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1973 ms
+2024-02-26T13:50:12.132+05:30  INFO 35380 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-26T13:50:12.146+05:30  INFO 35380 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-26T13:50:12.254+05:30  INFO 35380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-26T13:50:12.280+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : Started RestMain in 3.453 seconds (process running for 4.045)
+2024-02-26T13:50:33.919+05:30  INFO 35380 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-26T13:50:33.920+05:30  INFO 35380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-26T13:50:33.925+05:30  INFO 35380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2024-02-26T13:51:28.421+05:30  INFO 35380 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2024-02-26T13:51:28.438+05:30  INFO 35380 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-02-26T13:51:28.442+05:30  INFO 35380 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-02-26T13:51:38.007+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : Starting RestMain using Java 21.0.1 with PID 35380 (C:\Users\maddu\eclipse-workspace\SimpleRestApi\target\classes started by maddu in C:\Users\maddu\eclipse-workspace\SimpleRestApi)
+2024-02-26T13:51:38.008+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T13:51:38.310+05:30  INFO 35380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-02-26T13:51:38.311+05:30  INFO 35380 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-26T13:51:38.312+05:30  INFO 35380 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-02-26T13:51:38.456+05:30  INFO 35380 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-02-26T13:51:38.462+05:30  INFO 35380 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-02-26T13:51:38.463+05:30  INFO 35380 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 451 ms
+2024-02-26T13:51:38.597+05:30  INFO 35380 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-26T13:51:38.601+05:30  INFO 35380 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-26T13:51:38.622+05:30  INFO 35380 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-26T13:51:38.626+05:30  INFO 35380 --- [restartedMain] com.myprojects.main.RestMain             : Started RestMain in 0.652 seconds (process running for 90.391)
+2024-02-26T13:51:38.628+05:30  INFO 35380 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-02-26T13:52:11.933+05:30  INFO 33328 --- [restartedMain] com.myprojects.main.RestMain             : Starting RestMain using Java 21.0.1 with PID 33328 (C:\Users\maddu\eclipse-workspace\SimpleRestApi\target\classes started by maddu in C:\Users\maddu\eclipse-workspace\SimpleRestApi)
+2024-02-26T13:52:11.935+05:30  INFO 33328 --- [restartedMain] com.myprojects.main.RestMain             : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T13:52:11.998+05:30  INFO 33328 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-26T13:52:11.998+05:30  INFO 33328 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-26T13:52:13.621+05:30  INFO 33328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-02-26T13:52:13.639+05:30  INFO 33328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-26T13:52:13.639+05:30  INFO 33328 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-02-26T13:52:13.937+05:30  INFO 33328 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-02-26T13:52:13.945+05:30  INFO 33328 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-26T13:52:13.946+05:30  INFO 33328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1946 ms
+2024-02-26T13:52:14.626+05:30  WARN 33328 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 16f48fa9-2e69-4934-9f6c-714066521864
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-02-26T13:52:14.826+05:30  INFO 33328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-02-26T13:52:14.842+05:30  INFO 33328 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@65a1c452, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@101627e, org.springframework.security.web.context.SecurityContextHolderFilter@7e956f5d, org.springframework.security.web.header.HeaderWriterFilter@ffac14c, org.springframework.web.filter.CorsFilter@634e32cb, org.springframework.security.web.csrf.CsrfFilter@377bdcba, org.springframework.security.web.authentication.logout.LogoutFilter@347b1973, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@217fad6a, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3e4053bf, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@591f4aa0, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7eb34ee6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5ccd6cd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@70c509ea, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@32779685, org.springframework.security.web.access.ExceptionTranslationFilter@3e3cbf1e, org.springframework.security.web.access.intercept.AuthorizationFilter@4f5b3b7a]
+2024-02-26T13:52:14.906+05:30  INFO 33328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-26T13:52:14.992+05:30  INFO 33328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-26T13:52:15.012+05:30  INFO 33328 --- [restartedMain] com.myprojects.main.RestMain             : Started RestMain in 3.538 seconds (process running for 4.139)
+2024-02-26T13:52:23.370+05:30  INFO 33328 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-26T13:52:23.371+05:30  INFO 33328 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-26T13:52:23.373+05:30  INFO 33328 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
